@@ -19,5 +19,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "devDependencies": {}
+  "volta": {
+    "node": "18.20.3",
+    "yarn": "4.3.1"
+  }
 }
